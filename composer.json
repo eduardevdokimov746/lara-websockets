@@ -13,7 +13,7 @@
             "name": "Eduard Evdokimov",
             "email": "eduard.evdokimov@inbox.ru",
             "role": "Developer"
-        },
+        }
     ],
     "require": {
         "cboden/ratchet": "^0.4.1",

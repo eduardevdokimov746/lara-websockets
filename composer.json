@@ -1,32 +1,19 @@
 {
-    "name": "beyondcode/laravel-websockets",
+    "name": "eduardevdokimov746/lara-websockets",
     "description": "An easy to launch a Pusher-compatible WebSockets server for Laravel.",
     "keywords": [
-        "beyondcode",
         "laravel-websockets",
         "laravel",
         "php"
     ],
     "license": "MIT",
-    "homepage": "https://github.com/beyondcode/laravel-websockets",
+    "homepage": "https://github.com/eduardevdokimov746/lara-websockets.git",
     "authors": [
         {
-            "name": "Marcel Pociot",
-            "email": "marcel@beyondco.de",
-            "homepage": "https://beyondcode.de",
+            "name": "Eduard Evdokimov",
+            "email": "eduard.evdokimov@inbox.ru",
             "role": "Developer"
         },
-        {
-            "name": "Freek Van der Herten",
-            "email": "freek@spatie.be",
-            "homepage": "https://spatie.be",
-            "role": "Developer"
-        },
-        {
-            "name": "Alex Renoki",
-            "homepage": "https://github.com/rennokki",
-            "role": "Developer"
-        }
     ],
     "require": {
         "cboden/ratchet": "^0.4.1",
